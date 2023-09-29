@@ -6,11 +6,7 @@ A responsive shopping website built using HTML5 and CSS3.
 
 - [About](#about)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
